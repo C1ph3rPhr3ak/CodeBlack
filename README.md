@@ -13,3 +13,7 @@
 
 # For further inquiries, contact C1ph3rPhr3ak at C1ph3rPhr3ak@proton.me
 # ------------------------------------------------
+
+Code Black Chat Spy v1.0
+
+Code Black Chat Spy is a social media chat analysis program. It is designed to analyze chat traffic and detect the IP address of the people you chat with. Currently, it is only in the testing and development phase, and it is only being used to prove the theory of such programs. In no way is it being used for any malicious or illegal purposes.
