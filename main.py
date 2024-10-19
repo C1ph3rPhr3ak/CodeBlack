@@ -1,14 +1,16 @@
 # ------------------------------------------------------------
-# Copyright (c) 2024 C1ph3rPhr3ak. All rights reserved.
+#C1ph3rPhr3ak Non-Redistributable License v1.0
 
-# Permission is granted to view, download, and use this software from this repository, provided that:
-# - The software is not redistributed in any form.
-# - Modifications may only be made through pull requests or issues in this repository.
-# - No commercial use of the software is allowed without explicit written consent from the author.
+#Copyright (c) 2024 C1ph3rPhr3ak. All rights reserved.
 
-# The software is provided "AS IS," without warranty of any kind.  In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+#This software is the confidential and proprietary information of C1ph3rPhr3ak. You shall not disclose, distribute, or reproduce such Confidential Information and shall use it only in accordance with the terms of this license.
 
-# This software is strictly intended to be used in an ethical and LEGAL manner ONLY! The authors and copyright holders are NOT liable for any arrest, investigation, or other legal action due to the misuse or abuse of this software.
+#DISCLAIMER:
+#This software is provided "AS IS," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+#The author is not liable for any legal actions, damages, or other consequences resulting from the misuse of this software, including but not limited to illegal or malicious use.
+
+#For further inquiries, contact C1ph3rPhr3ak at C1ph3rPhr3ak@proton.me
 # -------------------------------------------------------------
 
 import sys
